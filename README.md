@@ -2,4 +2,4 @@
 
 Quiz app built using Flutter.
 
-![alt text](https://github.com/sherzodbek-ortiq/quiz_app/blob/master/screenshot1.png?raw=true)
+<img src="documentation_assets/screenshot1.png" width="160" height="300">
