@@ -2,4 +2,4 @@
 
 Quiz app built using Flutter.
 
-<img src="documentation_assets/screenshot1.png" width="160" height="300">
+<img src="documentation_assets/screenshot1.png" width="200" height="340">
