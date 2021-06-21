@@ -9,6 +9,7 @@ class Answer extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       width: double.infinity,
+      // ignore: deprecated_member_use
       child: RaisedButton(
         textColor: Colors.white,
         color: Colors.blue,
