@@ -29,6 +29,7 @@ class Result extends StatelessWidget {
               fontWeight: FontWeight.bold,
             ),
           ),
+          // ignore: deprecated_member_use
           FlatButton(
             child: Text(
               'Restart Quiz!',

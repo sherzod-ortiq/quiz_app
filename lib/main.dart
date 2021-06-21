@@ -37,10 +37,10 @@ class _MyAppState extends State<MyApp> {
     {
       'questionText': 'What\'s your favorite instructor?',
       'answers': [
-        {'text': 'Max', 'score': 1},
-        {'text': 'Max', 'score': 1},
-        {'text': 'Max', 'score': 1},
-        {'text': 'Max', 'score': 1},
+        {'text': 'Alex', 'score': 1},
+        {'text': 'Tom', 'score': 1},
+        {'text': 'Jack', 'score': 1},
+        {'text': 'Rajesh', 'score': 1},
       ],
     },
   ];
